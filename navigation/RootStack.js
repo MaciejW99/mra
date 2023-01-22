@@ -7,7 +7,7 @@ const { primary, tertiary } = Colors;
 import MainContainer from './../navigation/MainContainer';
 import Login from './../navigation/Login';
 import Signup from './../navigation/Signup';
-import Game from './../components/jumpbutton';
+import Game from './../components/GameBoard';
 
 const Stack = createNativeStackNavigator();
 
